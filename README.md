@@ -1,2 +1,7 @@
 # Polinomios-de-segundo-grado
-6553, 6679, 6793, 6598
+### Lenguaje: C++
+### Integrantes:
+Jean Carlos Castelo 6553
+Alejandro Cerna 6679
+Anthony Yunda 6793
+Marvin Erazo 6598
